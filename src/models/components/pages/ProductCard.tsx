@@ -35,6 +35,7 @@ const ProductCard: React.FC<Props> = ({ name, price, image, countInStock }) => {
                 <Text style={{ marginTop: 20 }}>Currently Unavailable</Text>
             )}
         </View>
+        
     );
 };
 
