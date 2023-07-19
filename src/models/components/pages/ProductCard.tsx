@@ -45,7 +45,7 @@ const styles = StyleSheet.create({
         padding: 10,
         borderRadius: 10,
         marginTop: 55,
-        marginBottom:5,
+        marginBottom: 5,
         marginLeft: 10,
         alignItems: 'center',
         elevations: 8,
@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
         backgroundColor: 'white',
         position: 'absolute',
         top: 0,
-        borderTopLeftRadius: 10, 
+        borderTopLeftRadius: 10,
         borderTopRightRadius: 10,
     },
     image: {
